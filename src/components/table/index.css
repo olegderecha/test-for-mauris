@@ -1,0 +1,12 @@
+.table {
+  margin-top: 5px;
+}
+.btn_group {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 5px;
+}
+.main {
+  padding: 10px;
+}
